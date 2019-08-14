@@ -111,7 +111,7 @@ Learn an interaction network from a data table (including OTUs and optionally me
 
 ### OTU tables ###
 
-OTU tables can be provided in several formats: 
+OTU tables can be provided in several formats:
 
 **delimited formats**: ".tsv" ([example](https://github.com/meringlab/FlashWeave.jl/tree/master/test/data/HMP_SRA_gut/HMP_SRA_gut_tiny.tsv)) or ".csv" ([example](https://github.com/meringlab/FlashWeave.jl/tree/master/test/data/HMP_SRA_gut/HMP_SRA_gut_tiny.csv))
 
